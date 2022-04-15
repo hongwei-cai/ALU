@@ -1,0 +1,9 @@
+Testing files...
+	PASSED test: ALU add (with overflow) test
+	PASSED test: ALU arithmetic right shift test
+	PASSED test: ALU Control Basic Data-processing Instructions Test
+	PASSED test: ALU Control Shifts Test
+	PASSED test: ALU Control CMP Test
+	PASSED test: ALU Control B Test
+	PASSED test: ALU Control ldr/str Test
+Passed 7/7 tests
