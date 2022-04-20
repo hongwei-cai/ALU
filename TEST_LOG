@@ -6,18 +6,10 @@ Testing files...
 	PASSED test: ALU logical right shift test
 	PASSED test: ALU arithmetic right shift test
 	PASSED test: ALU add (with overflow) test
-Format is student then expected
-Test #	ALUFlags	Result
-0	4	0
-0	4	0
-1	a	ffffffff
-1	a	ffffffff
-2	a	80000000
-2	9	80000000
-	FAILED test: ALU sub (with overflow) test (Did not match expected output)
+	PASSED test: ALU sub (with overflow) test
 	PASSED test: ALU Control Basic Data-processing Instructions Test
 	PASSED test: ALU Control Shifts Test
 	PASSED test: ALU Control CMP Test
 	PASSED test: ALU Control B Test
 	PASSED test: ALU Control ldr/str Test
-Passed 12/13 tests
+Passed 13/13 tests
